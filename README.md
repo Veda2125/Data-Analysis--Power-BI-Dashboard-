@@ -1,4 +1,5 @@
-# TCS Employee Dashboard – Power BI Project
+# TCS Employee Dashboard – Power BI Project  
+**An interactive dashboard showcasing key employee insights at TCS**
 
 
 ##  Overview
